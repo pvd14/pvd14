@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in Python programing language
-- 🌱 I’m currently learning NumPy and Pandas
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me on my email: onufreiciuc.victor@gmail.com
 
